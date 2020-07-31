@@ -5,7 +5,7 @@ welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank"
 description: Dcr的博客网站
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://dcrlqz.github.io"
+url: "http://dcrlqz.github.io/#blog"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: 
 
 # The blog button should not be removed.
 blog_button:
