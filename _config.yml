@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
+title: Dcr博客
+name: 记录生活
 description: Minimalism is a jekyll theme for minimalist
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/Dcrlqz/myblog
 rss: true
 
 plugins:
