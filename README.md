@@ -1,19 +1,37 @@
-# RainbomSea.github.io
+# Adam Blog is a minimal clear theme for Jekyll
 
-> 复制大佬过来的模板， 页面自己写是不可能的，一辈子都是不可能的了。
+![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
-## 网站地址
+## Demo
 
-[RainbomSea.xyz](http://rainbomsea.xyz/)
+Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 
-## 示例截图，嘿嘿，还是蛮好看的吧
+The main page would look like this:
 
-![示例图片](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-12-7/24840818.jpg)
+![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
 
-## 自己写的教程
+The post page would look like this:
 
-[GitHub Pages 快速搭建自己的博客](http://rainbomsea.xyz/2018/10/01/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
 
-## 大佬的教程 还是大佬的教程比较详细吧
+## Features
 
-[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [MailChimp](https://mailchimp.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+
+## Installation:
+
+Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+
+## License
+
+GNU General Public License v3.0
+
+## Donate
+
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
